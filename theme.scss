@@ -1,0 +1,8 @@
+/*-- scss:defaults --*/
+
+@font-face {
+  font-family: 'QTAvanti';
+  src: local('QTAvanti'), url('fonts/QTAvanti.otf') format('opentype');
+}
+
+$font-family-sans-serif: "QTAvanti", Helvetica, sans-serif !default;
